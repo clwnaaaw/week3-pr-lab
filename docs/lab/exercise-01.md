@@ -1,7 +1,7 @@
 INTRODUCTION TO OPEN SOURCE  |  WEEK 3, CLASS 2
 Pull Request Practice Lab
 Student Handout
-Name	 
+Name	 azizzbek
 GitHub username	 
 Exercise number	 
 Class repository URL	 
